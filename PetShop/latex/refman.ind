@@ -1,0 +1,208 @@
+\begin{theindex}
+
+  \item {addAnimal}
+    \subitem {PetShop}, \hyperpage{15}
+  \item {addPetFood}
+    \subitem {PetShop}, \hyperpage{16}
+  \item {addPetToy}
+    \subitem {PetShop}, \hyperpage{16}
+  \item {addProduct}
+    \subitem {Receipt}, \hyperpage{29}
+  \item {Animal}, \hyperpage{5}
+    \subitem {animalToOStream}, \hyperpage{6}
+    \subitem {decideIfDiscount}, \hyperpage{6}
+    \subitem {operator$<$$<$}, \hyperpage{7}
+    \subitem {operator$>$$>$}, \hyperpage{7}
+    \subitem {operator=}, \hyperpage{6}
+  \item {animalToOStream}
+    \subitem {Animal}, \hyperpage{6}
+
+  \indexspace
+
+  \item {CashRegister}, \hyperpage{7}
+    \subitem {cashRegisterToOStream}, \hyperpage{8}
+    \subitem {collectCash}, \hyperpage{8}
+    \subitem {operator$<$$<$}, \hyperpage{9}
+    \subitem {operator$>$$>$}, \hyperpage{9}
+    \subitem {operator++}, \hyperpage{8}
+    \subitem {operator[]}, \hyperpage{8}
+    \subitem {spendCash}, \hyperpage{8}
+  \item {cashRegisterToOStream}
+    \subitem {CashRegister}, \hyperpage{8}
+  \item {changeStock}
+    \subitem {PetToy}, \hyperpage{23}
+  \item {collectCash}
+    \subitem {CashRegister}, \hyperpage{8}
+  \item {coutReceiptFormat}
+    \subitem {PetToy}, \hyperpage{23}
+    \subitem {Product}, \hyperpage{26}
+
+  \indexspace
+
+  \item {decideIfDiscount}
+    \subitem {Animal}, \hyperpage{6}
+    \subitem {PetFood}, \hyperpage{13}
+    \subitem {PetShop}, \hyperpage{16}
+    \subitem {PetToy}, \hyperpage{23}
+    \subitem {Product}, \hyperpage{26}
+
+  \indexspace
+
+  \item {ListMB}
+    \subitem {ListMB$<$ T $>$}, \hyperpage{10}
+  \item {ListMB$<$ T $>$}, \hyperpage{10}
+    \subitem {ListMB}, \hyperpage{10}
+    \subitem {operator=}, \hyperpage{11}
+    \subitem {popData}, \hyperpage{11}
+    \subitem {pushData}, \hyperpage{11}
+
+  \indexspace
+
+  \item {NodeMB$<$ T $>$}, \hyperpage{12}
+
+  \indexspace
+
+  \item {operator double}
+    \subitem {PetShop}, \hyperpage{16}
+  \item {operator$<$$<$}
+    \subitem {Animal}, \hyperpage{7}
+    \subitem {CashRegister}, \hyperpage{9}
+    \subitem {PetFood}, \hyperpage{13}
+    \subitem {PetShop}, \hyperpage{21}
+    \subitem {PetToy}, \hyperpage{24}
+    \subitem {Product}, \hyperpage{28}
+    \subitem {Receipt}, \hyperpage{29}
+  \item {operator$>$$>$}
+    \subitem {Animal}, \hyperpage{7}
+    \subitem {CashRegister}, \hyperpage{9}
+    \subitem {PetFood}, \hyperpage{13}
+    \subitem {PetShop}, \hyperpage{22}
+    \subitem {PetToy}, \hyperpage{24}
+  \item {operator+}
+    \subitem {PetShop}, \hyperpage{16, 17}
+  \item {operator++}
+    \subitem {CashRegister}, \hyperpage{8}
+  \item {operator+=}
+    \subitem {PetShop}, \hyperpage{17, 18}
+  \item {operator=}
+    \subitem {Animal}, \hyperpage{6}
+    \subitem {ListMB$<$ T $>$}, \hyperpage{11}
+  \item {operator[]}
+    \subitem {CashRegister}, \hyperpage{8}
+
+  \indexspace
+
+  \item {PetFood}, \hyperpage{12}
+    \subitem {decideIfDiscount}, \hyperpage{13}
+    \subitem {operator$<$$<$}, \hyperpage{13}
+    \subitem {operator$>$$>$}, \hyperpage{13}
+  \item {PetShop}, \hyperpage{14}
+    \subitem {addAnimal}, \hyperpage{15}
+    \subitem {addPetFood}, \hyperpage{16}
+    \subitem {addPetToy}, \hyperpage{16}
+    \subitem {decideIfDiscount}, \hyperpage{16}
+    \subitem {operator double}, \hyperpage{16}
+    \subitem {operator$<$$<$}, \hyperpage{21}
+    \subitem {operator$>$$>$}, \hyperpage{22}
+    \subitem {operator+}, \hyperpage{16, 17}
+    \subitem {operator+=}, \hyperpage{17, 18}
+    \subitem {PetShop}, \hyperpage{15}
+    \subitem {returnAnimal}, \hyperpage{18}
+    \subitem {returnPetFood}, \hyperpage{18}
+    \subitem {returnPetToy}, \hyperpage{18}
+    \subitem {updateAdress}, \hyperpage{19}
+    \subitem {updateName}, \hyperpage{19}
+    \subitem {updateShopDetails}, \hyperpage{19}
+    \subitem {updateTaxNumber}, \hyperpage{19}
+    \subitem {userAddAnimal}, \hyperpage{20}
+    \subitem {userAddPetFood}, \hyperpage{20}
+    \subitem {userAddPetToy}, \hyperpage{20}
+    \subitem {userChooseAnimal}, \hyperpage{20}
+    \subitem {userChoosePetFood}, \hyperpage{20}
+    \subitem {userChoosePetToy}, \hyperpage{20}
+    \subitem {userFeedAnimal}, \hyperpage{21}
+    \subitem {userUpdateAdress}, \hyperpage{21}
+    \subitem {userUpdateName}, \hyperpage{21}
+    \subitem {userUpdateTaxNumber}, \hyperpage{21}
+  \item {PetToy}, \hyperpage{22}
+    \subitem {changeStock}, \hyperpage{23}
+    \subitem {coutReceiptFormat}, \hyperpage{23}
+    \subitem {decideIfDiscount}, \hyperpage{23}
+    \subitem {operator$<$$<$}, \hyperpage{24}
+    \subitem {operator$>$$>$}, \hyperpage{24}
+    \subitem {userUpdateStockNumber}, \hyperpage{24}
+  \item {popData}
+    \subitem {ListMB$<$ T $>$}, \hyperpage{11}
+  \item {Product}, \hyperpage{25}
+    \subitem {coutReceiptFormat}, \hyperpage{26}
+    \subitem {decideIfDiscount}, \hyperpage{26}
+    \subitem {operator$<$$<$}, \hyperpage{28}
+    \subitem {returnProductType}, \hyperpage{27}
+    \subitem {returnSpecies}, \hyperpage{27}
+    \subitem {userUpdateCost}, \hyperpage{27}
+    \subitem {userUpdatePrice}, \hyperpage{28}
+    \subitem {userUpdateSpecies}, \hyperpage{28}
+  \item {pushData}
+    \subitem {ListMB$<$ T $>$}, \hyperpage{11}
+
+  \indexspace
+
+  \item {Receipt}, \hyperpage{29}
+    \subitem {addProduct}, \hyperpage{29}
+    \subitem {operator$<$$<$}, \hyperpage{29}
+  \item {returnAnimal}
+    \subitem {PetShop}, \hyperpage{18}
+  \item {returnPetFood}
+    \subitem {PetShop}, \hyperpage{18}
+  \item {returnPetToy}
+    \subitem {PetShop}, \hyperpage{18}
+  \item {returnProductType}
+    \subitem {Product}, \hyperpage{27}
+  \item {returnSpecies}
+    \subitem {Product}, \hyperpage{27}
+
+  \indexspace
+
+  \item {spendCash}
+    \subitem {CashRegister}, \hyperpage{8}
+
+  \indexspace
+
+  \item {updateAdress}
+    \subitem {PetShop}, \hyperpage{19}
+  \item {updateName}
+    \subitem {PetShop}, \hyperpage{19}
+  \item {updateShopDetails}
+    \subitem {PetShop}, \hyperpage{19}
+  \item {updateTaxNumber}
+    \subitem {PetShop}, \hyperpage{19}
+  \item {userAddAnimal}
+    \subitem {PetShop}, \hyperpage{20}
+  \item {userAddPetFood}
+    \subitem {PetShop}, \hyperpage{20}
+  \item {userAddPetToy}
+    \subitem {PetShop}, \hyperpage{20}
+  \item {userChooseAnimal}
+    \subitem {PetShop}, \hyperpage{20}
+  \item {userChoosePetFood}
+    \subitem {PetShop}, \hyperpage{20}
+  \item {userChoosePetToy}
+    \subitem {PetShop}, \hyperpage{20}
+  \item {userFeedAnimal}
+    \subitem {PetShop}, \hyperpage{21}
+  \item {userUpdateAdress}
+    \subitem {PetShop}, \hyperpage{21}
+  \item {userUpdateCost}
+    \subitem {Product}, \hyperpage{27}
+  \item {userUpdateName}
+    \subitem {PetShop}, \hyperpage{21}
+  \item {userUpdatePrice}
+    \subitem {Product}, \hyperpage{28}
+  \item {userUpdateSpecies}
+    \subitem {Product}, \hyperpage{28}
+  \item {userUpdateStockNumber}
+    \subitem {PetToy}, \hyperpage{24}
+  \item {userUpdateTaxNumber}
+    \subitem {PetShop}, \hyperpage{21}
+
+\end{theindex}

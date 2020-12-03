@@ -1,0 +1,123 @@
+\hypertarget{class_animal}{}\doxysection{Animal Class Reference}
+\label{class_animal}\index{Animal@{Animal}}
+Inheritance diagram for Animal\+:\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=2.000000cm]{class_animal}
+\end{center}
+\end{figure}
+\doxysubsection*{Public Types}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{class_animal_a5a3c7b9699fcb6cf9dfd4b842bcb23a6}\label{class_animal_a5a3c7b9699fcb6cf9dfd4b842bcb23a6}} 
+enum \mbox{\hyperlink{class_animal_a5a3c7b9699fcb6cf9dfd4b842bcb23a6}{Sex}} \{ {\bfseries male} = 0, 
+{\bfseries female} = 1
+ \}
+\begin{DoxyCompactList}\small\item\em Definicja typu wyliczeniowego płci. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{class_animal_af647fe869aecc01956470f00e94bb452}\label{class_animal_af647fe869aecc01956470f00e94bb452}} 
+\mbox{\hyperlink{class_animal_af647fe869aecc01956470f00e94bb452}{Animal}} (\mbox{\hyperlink{class_product_a0c022dd5e8f0d92bd7cb44306a9f3e0b}{Species}}=Product\+::chomik, \mbox{\hyperlink{class_animal_a5a3c7b9699fcb6cf9dfd4b842bcb23a6}{Sex}}=male, int=1, double=10.\+0, double=10.\+0)
+\begin{DoxyCompactList}\small\item\em Konstruktor zwierzęcia. \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{class_animal_a476af25adde5f0dfa688129c8f86fa5c}\label{class_animal_a476af25adde5f0dfa688129c8f86fa5c}} 
+\mbox{\hyperlink{class_animal_a476af25adde5f0dfa688129c8f86fa5c}{$\sim$\+Animal}} ()
+\begin{DoxyCompactList}\small\item\em Dekonstruktor zwierzęcia. \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{class_animal_a05625edf2d690c2be72cbdae203d1e0e}\label{class_animal_a05625edf2d690c2be72cbdae203d1e0e}} 
+int \mbox{\hyperlink{class_animal_a05625edf2d690c2be72cbdae203d1e0e}{return\+Age}} ()
+\begin{DoxyCompactList}\small\item\em Metoda zwracająca wiek zwierzęcia. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{class_animal_a8337c5b0b431156f74adf285d1078d02}{operator=}} (\mbox{\hyperlink{class_pet_food}{Pet\+Food}} \&)
+\item 
+\mbox{\Hypertarget{class_animal_a3b530fff9ede6f258e8986ffbd6f8966}\label{class_animal_a3b530fff9ede6f258e8986ffbd6f8966}} 
+std\+::string \mbox{\hyperlink{class_animal_a3b530fff9ede6f258e8986ffbd6f8966}{return\+Sex\+String}} ()
+\begin{DoxyCompactList}\small\item\em Metoda, która zwraca płeć zwierzęcia (typ enum) w postaci stringa. \end{DoxyCompactList}\item 
+virtual bool \mbox{\hyperlink{class_animal_a26fb9f13a709e43db913d5b8dd9c3dbb}{decide\+If\+Discount}} ()
+\item 
+\mbox{\Hypertarget{class_animal_a0551c6442e389b4df30f7c29befe4828}\label{class_animal_a0551c6442e389b4df30f7c29befe4828}} 
+virtual std\+::ostream \& \mbox{\hyperlink{class_animal_a0551c6442e389b4df30f7c29befe4828}{cout\+Receipt\+Format}} (std\+::ostream \&os)
+\begin{DoxyCompactList}\small\item\em Metoda wyświetlająca zwierze w formacie paragonowym. \end{DoxyCompactList}\item 
+std\+::ostream \& \mbox{\hyperlink{class_animal_a64c11d3c5391ca3bc3d89fcaa6f2e652}{animal\+To\+O\+Stream}} (std\+::ostream \&)
+\item 
+\mbox{\Hypertarget{class_animal_a7b6e3b7ad0a80c9128a4d622f6de402b}\label{class_animal_a7b6e3b7ad0a80c9128a4d622f6de402b}} 
+void \mbox{\hyperlink{class_animal_a7b6e3b7ad0a80c9128a4d622f6de402b}{user\+Update\+Sex}} ()
+\begin{DoxyCompactList}\small\item\em Metoda pozwalająca użytkownikowi zaktualizować płeć zwierzęcia. \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{class_animal_a22dbc187b3263d56ffaae96cc96e72b3}\label{class_animal_a22dbc187b3263d56ffaae96cc96e72b3}} 
+void \mbox{\hyperlink{class_animal_a22dbc187b3263d56ffaae96cc96e72b3}{user\+Update\+Age}} ()
+\begin{DoxyCompactList}\small\item\em Metoda pozwalająca użytkownikowi zaktualizować wiek zwierzęcia. \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{class_animal_aa5748eed44517f39af641ac3f699ee0c}\label{class_animal_aa5748eed44517f39af641ac3f699ee0c}} 
+virtual std\+::ostream \& \mbox{\hyperlink{class_animal_aa5748eed44517f39af641ac3f699ee0c}{product\+To\+Ostream\+Encyclopedia}} (std\+::ostream \&os)
+\begin{DoxyCompactList}\small\item\em Metoda wirtualna przekazująca obiekt w formacie \char`\"{}do wyświetlenia\char`\"{} do obiektu klasy ostream. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsection*{Static Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{class_animal_a7c9541aeb0ec93cbcf39840610fed6c2}\label{class_animal_a7c9541aeb0ec93cbcf39840610fed6c2}} 
+static int \mbox{\hyperlink{class_animal_a7c9541aeb0ec93cbcf39840610fed6c2}{return\+How\+Many}} ()
+\begin{DoxyCompactList}\small\item\em Statyczna metoda, która zwraca ile obiektów jest aktualnie stworzonych. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsection*{Friends}
+\begin{DoxyCompactItemize}
+\item 
+std\+::ostream \& \mbox{\hyperlink{class_animal_a6643aaf8a3b0154afe005b4b81a993a3}{operator$<$$<$}} (std\+::ostream \&, \mbox{\hyperlink{class_animal}{Animal}} \&)
+\item 
+std\+::istream \& \mbox{\hyperlink{class_animal_a3797a2123467e6fd5339451056b36148}{operator$>$$>$}} (std\+::istream \&is, \mbox{\hyperlink{class_animal}{Animal}} \&pt)
+\end{DoxyCompactItemize}
+\doxysubsection*{Additional Inherited Members}
+
+
+\doxysubsection{Member Function Documentation}
+\mbox{\Hypertarget{class_animal_a64c11d3c5391ca3bc3d89fcaa6f2e652}\label{class_animal_a64c11d3c5391ca3bc3d89fcaa6f2e652}} 
+\index{Animal@{Animal}!animalToOStream@{animalToOStream}}
+\index{animalToOStream@{animalToOStream}!Animal@{Animal}}
+\doxysubsubsection{\texorpdfstring{animalToOStream()}{animalToOStream()}}
+{\footnotesize\ttfamily std\+::ostream \& Animal\+::animal\+To\+O\+Stream (\begin{DoxyParamCaption}\item[{std\+::ostream \&}]{os }\end{DoxyParamCaption})}
+
+Metoda przekazująca zwierzę do obiektu klasy ostream
+
+Format zapisu do pliku (data ostatniego karmienia wyrażona w sekundach od ...) \mbox{\Hypertarget{class_animal_a26fb9f13a709e43db913d5b8dd9c3dbb}\label{class_animal_a26fb9f13a709e43db913d5b8dd9c3dbb}} 
+\index{Animal@{Animal}!decideIfDiscount@{decideIfDiscount}}
+\index{decideIfDiscount@{decideIfDiscount}!Animal@{Animal}}
+\doxysubsubsection{\texorpdfstring{decideIfDiscount()}{decideIfDiscount()}}
+{\footnotesize\ttfamily bool Animal\+::decide\+If\+Discount (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [virtual]}}
+
+Metoda wirtualna decydująca o przecenie
+
+Jeśli zwierze jest starsze niż 5 lat, jego marża zostaje zmniejszona o 50\% 
+
+Implements \mbox{\hyperlink{class_product_adc0c9e0c056fb8a5111e9b8cf06e7d90}{Product}}.
+
+\mbox{\Hypertarget{class_animal_a8337c5b0b431156f74adf285d1078d02}\label{class_animal_a8337c5b0b431156f74adf285d1078d02}} 
+\index{Animal@{Animal}!operator=@{operator=}}
+\index{operator=@{operator=}!Animal@{Animal}}
+\doxysubsubsection{\texorpdfstring{operator=()}{operator=()}}
+{\footnotesize\ttfamily void Animal\+::operator= (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{class_pet_food}{Pet\+Food}} \&}]{pf }\end{DoxyParamCaption})}
+
+Przeciążony operator =
+
+Karmi (jeśli to dozwolone) zwierze przyrównanym jedzeniem
+
+Przy pomyślnym nakarmieniu, następuje aktualizacja daty ostatniego karmienia 
+
+\doxysubsection{Friends And Related Function Documentation}
+\mbox{\Hypertarget{class_animal_a6643aaf8a3b0154afe005b4b81a993a3}\label{class_animal_a6643aaf8a3b0154afe005b4b81a993a3}} 
+\index{Animal@{Animal}!operator$<$$<$@{operator$<$$<$}}
+\index{operator$<$$<$@{operator$<$$<$}!Animal@{Animal}}
+\doxysubsubsection{\texorpdfstring{operator$<$$<$}{operator<<}}
+{\footnotesize\ttfamily std\+::ostream\& operator$<$$<$ (\begin{DoxyParamCaption}\item[{std\+::ostream \&}]{os,  }\item[{\mbox{\hyperlink{class_animal}{Animal}} \&}]{anim }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [friend]}}
+
+Przeciążony operator $<$$<$
+
+Pozwala wyświetlić informacje o zwierzęciu (przekazać go do obiektu klasy ostream)
+
+Format przekazywania\+: interfejs konsolowy (data wyświetlana w formacie daty) \mbox{\Hypertarget{class_animal_a3797a2123467e6fd5339451056b36148}\label{class_animal_a3797a2123467e6fd5339451056b36148}} 
+\index{Animal@{Animal}!operator$>$$>$@{operator$>$$>$}}
+\index{operator$>$$>$@{operator$>$$>$}!Animal@{Animal}}
+\doxysubsubsection{\texorpdfstring{operator$>$$>$}{operator>>}}
+{\footnotesize\ttfamily std\+::istream\& operator$>$$>$ (\begin{DoxyParamCaption}\item[{std\+::istream \&}]{is,  }\item[{\mbox{\hyperlink{class_animal}{Animal}} \&}]{pt }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [friend]}}
+
+Przeciążony operator $>$$>$
+
+Wczytuje zwierzę zgodnie ze schematem zapisywania w pliku 
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+Animal.\+hpp\item 
+Animal.\+cpp\end{DoxyCompactItemize}

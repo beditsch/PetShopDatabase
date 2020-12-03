@@ -1,0 +1,13 @@
+Oto informacje o sklepie:
+NAZWA: Sklep zoologiczny                                    ADRES: Sklepowa 1                                           NUMER NIP: 0000000000    
+Oto zwierzęta w magazynie sklepu:
+TYP: zwierze        GATUNEK: papuga          PLEC: samica         WIEK: 3   CENA: 120.00   KOSZT: 40.00   DATA KARMIENIA: 1576604161
+TYP: zwierze        GATUNEK: papuga          PLEC: samiec         WIEK: 3   CENA: 100.00   KOSZT: 30.00   DATA KARMIENIA: 1576694998
+TYP: zwierze        GATUNEK: pajak           PLEC: samiec         WIEK: 4   CENA: 80.00    KOSZT: 15.00   DATA KARMIENIA: 1576697833
+Oto pokarm w magazynie sklepu:
+TYP: pokarm         GATUNEK: chomik          WIEK MINIMALNY: 0   WIEK MAKSYMALNY: 3   PRODUCENT: Chomicze smakolyki                               LICZBA SZTUK: 12    CENA: 1.80     KOSZT: 0.80    
+TYP: pokarm         GATUNEK: papuga          WIEK MINIMALNY: 3   WIEK MAKSYMALNY: 8   PRODUCENT: PapugarniaMAX                                    LICZBA SZTUK: 30    CENA: 1.00     KOSZT: 0.20    
+Oto zabawki w magazynie sklepu:
+TYP: zabawka        GATUNEK: mysz            WIEK MINIMALNY: 1   PRODUCENT: Myszzka                                          LICZBA SZTUK: 25    CENA: 0.56     KOSZT: 0.50    
+TYP: zabawka        GATUNEK: kanarek         WIEK MINIMALNY: 3   PRODUCENT: Kanarkowy Zawrot Glowy                           LICZBA SZTUK: 12    CENA: 2.50     KOSZT: 1.00    
+GOTÓWKA W KASIE FISKALNEJ: 874.90       

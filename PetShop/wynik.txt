@@ -1,0 +1,22 @@
+Oto informacje o sklepie:
+NAZWA: Sklepik u Martensa                                   ADRES: Nowowiejska 16/19                                    NUMER NIP: 1123581321    
+Oto zwierzęta w magazynie sklepu:
+TYP: zwierze        GATUNEK: papuga          PLEC: samica         WIEK: 3   CENA: 120.00   KOSZT: 40.00   DATA KARMIENIA: 1576702097
+TYP: zwierze        GATUNEK: pajak           PLEC: samiec         WIEK: 4   CENA: 80.00    KOSZT: 15.00   DATA KARMIENIA: 1576697833
+TYP: zwierze        GATUNEK: mysz            PLEC: samica         WIEK: 0   CENA: 10.00    KOSZT: 2.00    DATA KARMIENIA: 1576700403
+TYP: zwierze        GATUNEK: mysz            PLEC: samiec         WIEK: 1   CENA: 100000.00KOSZT: 10.00   DATA KARMIENIA: 1576700572
+TYP: zwierze        GATUNEK: pajak           PLEC: samiec         WIEK: 1   CENA: 120.00   KOSZT: 30.00   DATA KARMIENIA: 1576701071
+TYP: zwierze        GATUNEK: chomik          PLEC: samiec         WIEK: 4   CENA: 12.00    KOSZT: 4.00    DATA KARMIENIA: 1576701957
+TYP: zwierze        GATUNEK: papuga          PLEC: samiec         WIEK: 2   CENA: 80.00    KOSZT: 30.00   DATA KARMIENIA: 1576702028
+TYP: zwierze        GATUNEK: snake           PLEC: samica         WIEK: 66  CENA: 21.49    KOSZT: 6.66    DATA KARMIENIA: 1577715374
+TYP: zwierze        GATUNEK: snake           PLEC: samica         WIEK: 66  CENA: 36.33    KOSZT: 6.66    DATA KARMIENIA: 1577717244
+TYP: zwierze        GATUNEK: snake           PLEC: samica         WIEK: 66  CENA: 66.00    KOSZT: 6.66    DATA KARMIENIA: 1577717358
+Oto pokarm w magazynie sklepu:
+TYP: pokarm         GATUNEK: chomik          WIEK MINIMALNY: 0   WIEK MAKSYMALNY: 3   PRODUCENT: Chomicze smakolyki                               LICZBA SZTUK: 24    CENA: 1.80     KOSZT: 0.80    
+TYP: pokarm         GATUNEK: papuga          WIEK MINIMALNY: 3   WIEK MAKSYMALNY: 8   PRODUCENT: PapugarniaMAX                                    LICZBA SZTUK: 28    CENA: 1.00     KOSZT: 0.20    
+TYP: pokarm         GATUNEK: krolik          WIEK MINIMALNY: 3   WIEK MAKSYMALNY: 4   PRODUCENT: Krolicze przysmaki                               LICZBA SZTUK: 25    CENA: 2.38     KOSZT: 1.50    
+Oto zabawki w magazynie sklepu:
+TYP: zabawka        GATUNEK: mysz            WIEK MINIMALNY: 1   PRODUCENT: Myszzka                                          LICZBA SZTUK: 25    CENA: 0.50     KOSZT: 0.50    
+TYP: zabawka        GATUNEK: kanarek         WIEK MINIMALNY: 3   PRODUCENT: Kanarkowy Zawrot Glowy                           LICZBA SZTUK: 25    CENA: 1.00     KOSZT: 1.00    
+TYP: zabawka        GATUNEK: snake           WIEK MINIMALNY: 5   PRODUCENT: Wezowa rozkosz                                   LICZBA SZTUK: 2     CENA: 12.00    KOSZT: 3.00    
+GOTÓWKA W KASIE FISKALNEJ: 823.82       

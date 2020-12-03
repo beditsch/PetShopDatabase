@@ -1,0 +1,9 @@
+
+                                              PARAGON                       
+Czas: Fri Dec 20 14:08:30 2019
+Oto szczegóły transakcji:
+Produkty:
+Lp |      Typ      |      Gatunek       |                     Producent                       Cena
+  1|         pokarm|              chomik|                                Chomicze smakolyki|    1.80
+                                              SUMA: 1.80
+
